@@ -361,9 +361,11 @@ article .icon {
 
 .details-container1 {
   display: flex;
+  flex: 1;
   flex-direction: column;
   justify-content: space-between;
   width: 30%; 
+  margin: 1rem;
   margin-bottom: 2rem; 
   padding: 1rem; 
   background: white;
